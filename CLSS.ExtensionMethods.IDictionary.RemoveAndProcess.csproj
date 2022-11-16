@@ -10,6 +10,8 @@
     <RepositoryUrl>https://github.com/tonygiang/CLSS.ExtensionMethods.IDictionary.RemoveAndProcess</RepositoryUrl>
     <PackageTags>CLSS</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.0.1</Version>
+    <PackageReleaseNotes>- Changed XML comment to better reflect the order of execution.</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>

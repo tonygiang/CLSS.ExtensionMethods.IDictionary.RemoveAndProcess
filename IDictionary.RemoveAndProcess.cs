@@ -38,9 +38,9 @@ namespace CLSS
     }
 
     /// <summary>
-    /// Takes the element associated with the specified key and passes it to the
-    /// specified delegate. Removes that element's key from the source
-    /// collection afterward.
+    /// Takes the element associated with the specified key, removes that
+    /// element's key from the source collection and passes the removed element
+    /// to the specified delegate.
     /// </summary>
     /// <typeparam name="T">The type of <see cref="IDictionary{TKey, TValue}"/>
     /// to remove element from.</typeparam>
